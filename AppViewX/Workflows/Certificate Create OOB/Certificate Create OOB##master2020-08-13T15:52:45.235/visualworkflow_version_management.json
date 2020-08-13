@@ -1,0 +1,14 @@
+{
+  "attachByFiles" : null,
+  "versioningAttachmentId" : null,
+  "_id" : "5f3561cd3bcfba4234a7db8e",
+  "workflowName" : "Certificate Create OOB",
+  "workflowVersionName" : "master2020-08-13T15:52:45.235",
+  "source" : "master",
+  "description" : null,
+  "createdBy" : "admin",
+  "lastModifiedTime" : 1597333965283,
+  "activeForRequest" : false,
+  "activeForInventory" : false,
+  "protectedVersion" : false
+}
