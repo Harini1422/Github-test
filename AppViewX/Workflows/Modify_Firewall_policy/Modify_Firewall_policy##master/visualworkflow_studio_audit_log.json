@@ -1,0 +1,17 @@
+[ {
+  "time" : 1597693875794,
+  "message" : "Workflow imported. Old workflow name Modify_Firewall_policy##master ,Imported workflow name Modify_Firewall_policy",
+  "priority" : 1,
+  "type" : "workflow",
+  "user" : "admin",
+  "data" : null,
+  "category" : null,
+  "subCategory" : null,
+  "requestId" : null,
+  "requestType" : null,
+  "workflowName" : "Modify_Firewall_policy",
+  "workflowVersion" : "master",
+  "name" : null,
+  "referenceId" : null,
+  "_keywords" : [ "workflow", "1", "Workflow imported. Old workflow name Modify_Firewall_policy##master ,Imported workflow name Modify_Firewall_policy", "admin" ]
+} ]
