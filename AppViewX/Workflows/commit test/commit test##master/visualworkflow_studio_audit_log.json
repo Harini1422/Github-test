@@ -46,4 +46,20 @@
   "name" : null,
   "referenceId" : null,
   "_keywords" : null
+}, {
+  "time" : 1608147451502,
+  "message" : "Workflow imported. Old workflow name commit test##master ,Imported workflow name commit test",
+  "priority" : 1,
+  "type" : "workflow",
+  "user" : "admin",
+  "data" : null,
+  "category" : null,
+  "subCategory" : null,
+  "requestId" : null,
+  "requestType" : null,
+  "workflowName" : "commit test",
+  "workflowVersion" : "master",
+  "name" : null,
+  "referenceId" : null,
+  "_keywords" : [ "workflow", "1", "Workflow imported. Old workflow name commit test##master ,Imported workflow name commit test", "admin" ]
 } ]
